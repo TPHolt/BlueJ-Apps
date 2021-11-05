@@ -1,0 +1,30 @@
+module1.print();
+ Module Code: CO452:Programming Concepts
+ Credit 0
+module1.setCredit(15);
+module1.print();
+ Module Code: CO452:Programming Concepts
+ Credit 15
+GamesDev.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1GDV1: BSc Games Development
+    Exception occurred.
+GamesDev.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1GDV1: BSc Games Development
+    Exception occurred.
+GamesDev.addModule(module1);
+GamesDev.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1GDV1: BSc Games Development
+ Module Code: CO452:Programming Concepts
+ Credit 15

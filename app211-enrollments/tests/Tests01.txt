@@ -1,3 +1,17 @@
-Student derek = new Student("Derek", 12345678);
-Course Computing = new Course("COMP01", "BSc Computing");
-derek.enrol(Computing);
+Course GamesDev = new Course("BT1GDV1", "BSc Games Development");
+GamesDev.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1GDV1: BSc Games Development
+    Exception occurred.
+Student student1 = new Student("Thomas Holt", 100152955);
+student1.enrol(GamesDev);
+student1.printCourse();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1GDV1: BSc Games Development
+    Exception occurred.
